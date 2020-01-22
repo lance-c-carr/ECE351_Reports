@@ -1,2 +1,4 @@
 # ECE351_Reports
-For .tex code
+Lance Carr
+Carr9733@vandals.uidaho.edu
+This repository is for .tex code
